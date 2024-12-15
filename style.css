@@ -1,0 +1,16 @@
+*{
+    font-family: DM Serif Display;
+
+}
+
+header{ 
+    background-color: #fed2fd;
+
+}
+.nav-item a{
+    color: blueviolet;
+}
+.perfil{
+    background-color: aqua;
+
+}
